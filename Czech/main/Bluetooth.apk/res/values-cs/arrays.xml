@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>MiFit</item>
+        <item></item>
+    </string-array>
+    <string-array name="ble_profile_mi_band">
+        <item>Vibrovat při příchozím hovoru</item>
+        <item>Vibrovat při nové SMS</item>
+        <item>Vibrovat při buzení</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Zhotovit fotografii</item>
+        <item>Vyhledat telefon</item>
+        <item>Vyhledat MiKey</item>
+    </string-array>
+</resources>
