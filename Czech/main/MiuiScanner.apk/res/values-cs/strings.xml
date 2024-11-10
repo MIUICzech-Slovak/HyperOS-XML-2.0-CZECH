@@ -882,4 +882,11 @@
     <string name="location_permissions_text">Abyste tuto funkci mohli používat, povolte v Nastavení přístup k poloze.</string>
     <string name="not_permissions_hint">Abyste tuto funkci mohli používat, povolte přístup ke kameře.</string>
     <string name="not_permissions_title">Vyžadována oprávnění</string>
+    
+<string name="scan_code_lite_object_guard">Naskenujte čárový kód nebo QR kód</string>
+ <string name="transfer_document">Převést dokument</string>
+ <string name="transfer_document_ppt_summary">Skenovat do PDF / Skenovat snímky</string>
+ <string name="transfer_document_ppt_table_summary">Skenovat do PDF / Skenovat snímky / Skenovat tabulku Excel</string>
+ <string name="transfer_document_summary">Vytvořit PDF</string>
+ <string name="transfer_document_table_summary">Skenování dokumentů do PDF a skenování tabulek aplikace Excel</string>    
 </resources>
