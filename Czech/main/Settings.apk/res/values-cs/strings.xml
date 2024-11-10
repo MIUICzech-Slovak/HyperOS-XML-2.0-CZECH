@@ -8527,7 +8527,7 @@ Další informace o těchto certifikátech vám sdělí váš administrátor.}}
     <string name="ssl_ca_cert_warning_message">"Vaše aktivita v síti, včetně e-mailů, aplikací a zabezpečených webových stránek může být monitorována třetí stranou.
 
 Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem zařízení."</string>
-    <string name="stable_build">" | Stabilní"</string>
+    <string name="stable_build">Stabilní</string>
     <string name="standard">Ticho</string>
     <string name="standard_info">Hovory a upozornění budou ztišeny, budík bude zvonit.</string>
     <string name="standard_limit">Standardní limit</string>
@@ -13110,4 +13110,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="photography_handle_charge_state">Nabíjení z fotografického gripu</string>
     <string name="photography_handle_charge_state_summary">"Když je grip připojen, toto zařízení bude nabíjeno z fotografického gripu"</string>
     <string name="parental_control_title">Rodičovská kontrola</string>
+<string name="personal_section_title">Přizpůsobení</string>
+ <string name="system_personalize_title">Přizpůsobení</string>
+ <string name="service_support">Podpora</string>    
 </resources>

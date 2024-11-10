@@ -623,7 +623,7 @@
     <string name="workday_alarm_clock">Pracovní den</string>
     <string name="worldclock_edit_label">Světové hodiny</string>
     <string name="worldclock_input_hint_text">Zadejte město nebo krajinu</string>
-    <string name="worldclock_local_time">Lokální čas</string>
+    <string name="worldclock_local_time">"Lokální čas "</string>
     <string name="worldclock_search_city">Vyberte město</string>
     <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">Hodiny</string>
@@ -864,4 +864,6 @@ d.MM."</string>
     <string name="read_device_internal_storage">Přístup k úložišti</string>
     <string name="miuix_navigator_category_group_collapse">Sbalit</string>
     <string name="miuix_navigator_category_group_expand">Rozbalit</string>
+     <string name="worldcolock_time_date_new">dd.MM.</string>    
+
 </resources>

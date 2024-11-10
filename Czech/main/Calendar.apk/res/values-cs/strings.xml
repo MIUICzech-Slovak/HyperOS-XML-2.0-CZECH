@@ -1015,4 +1015,8 @@ Můžete si také nastavit připomínky aktualizací, aby vám tak nic důležit
     <string name="yearly">Ročně (každého %s)</string>
     <string name="yearly_plain">Ročně</string>
     <string name="yesterday">Včera</string>
+    
+<string name="bottom_navigator_days">%1$d dny</string>
+ <string name="tab_view_desk">%1$d den</string>
+ <string name="setting_show_extend_month">Rozšířené zobrazení měsíce</string>    
 </resources>
