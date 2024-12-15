@@ -7621,4 +7621,7 @@ dobrovolník"</string>
     <string name="ew_subscribe_area_title">Spravovat přidané oblasti</string>
     <string name="ew_subscribe_city">Přidané oblasti</string>
     <string name="ew_subscribe_search_hint">Vyhledat oblasti</string>
+    
+<string name="finger_unlock">Odemknout otiskem prstu</string>
+ <string name="password_switch">Použít heslo</string>    
 </resources>
