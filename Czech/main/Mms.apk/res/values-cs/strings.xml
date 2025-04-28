@@ -1627,4 +1627,7 @@ Pokus: %s."</string>
     <string name="wait_for_sp_mark_as_read">Načítání...</string>
     <string name="xiaomi_service_number">Číslo služby</string>
     <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
+    <string name="context_menu_access_link">Otevřít URL</string>
+    <string name="context_menu_call_phone">Volat</string>
+    <string name="context_menu_copy_link">Kopírovat URL</string>
 </resources>
